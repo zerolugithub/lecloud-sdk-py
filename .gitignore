@@ -1,0 +1,14 @@
+dist
+build
+.tox
+*.egg-info
+
+docker-compose.yml
+Dockerfile
+.env
+
+*.swo
+*.swp
+*.log
+
+*.pyc
